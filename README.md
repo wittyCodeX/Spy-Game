@@ -38,8 +38,6 @@ If you just want to see it run without getting an API key, you can set `debugSta
 
 # Credits
 
-Programming & Design by Omar Shehata (author of this repo)
-
-Art by Tak (@Takorri)
+Programming & Design by Ethan Wing
 
 Music by a fantastic person on Newgrounds whose name/account I unfourtunately have lost. 
